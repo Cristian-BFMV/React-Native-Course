@@ -1,0 +1,12 @@
+{
+  "name": "cryptoTracker",
+  "displayName": "cryptoTracker",
+  "expo": {
+    "name": "cryptoTracker",
+    "slug": "cryptoTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
